@@ -74,7 +74,7 @@ export function Hero() {
           ref={headlineRef}
           className="text-6xl md:text-9xl font-bold tracking-tighter leading-[0.9] text-ink mb-12"
         >
-          Turning ideas into visual stories.
+          Turning ideas into a visual map.
         </h1>
         
         <p 
